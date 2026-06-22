@@ -1,0 +1,13 @@
+{
+  "itemGroup.ccpowergridcompat": "Example Mod Tab",
+  "block.ccpowergridcompat.example_block": "Example Block",
+  "item.ccpowergridcompat.example_item": "Example Item",
+
+  "ccpowergridcompat.configuration.title": "CC: Power Grid Compat Configs",
+  "ccpowergridcompat.configuration.section.ccpowergridcompat.common.toml": "CC: Power Grid Compat Configs",
+  "ccpowergridcompat.configuration.section.ccpowergridcompat.common.toml.title": "CC: Power Grid Compat Configs",
+  "ccpowergridcompat.configuration.items": "Item List",
+  "ccpowergridcompat.configuration.logDirtBlock": "Log Dirt Block",
+  "ccpowergridcompat.configuration.magicNumberIntroduction": "Magic Number Text",
+  "ccpowergridcompat.configuration.magicNumber": "Magic Number"
+}
